@@ -10,7 +10,7 @@ cortex-m = "0.6.0"
 cortex-m-rt = "0.6.10"
 nb = "0.1.2"
 panic-halt = "0.2.0"
-cc3220sf-hal = { path = "../../cc3220sf-hal" }
+cc3220sf-hal = "0.2.0"
 
 [dependencies.embedded-hal]
 version = "0.2.3"
